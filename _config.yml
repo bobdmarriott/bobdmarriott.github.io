@@ -47,6 +47,51 @@ roles:
    end: Oct 2015
    employer: Harvard Technology Ltd
    description: Designing IoT solutions for street lighting and smart cities
+ - title: IT Consultant
+   start: Feb 2010
+   end: Aug 2010
+   employer: Howells Associates
+   description: Building financial services platform
+ - title: Analyst Developer
+   start: Feb 2009
+   end: Dec 2009
+   employer: Press Association
+   description: Building media platform applications
+ - title: Senior Developer
+   start: Feb 2007
+   end: Feb 2009
+   employer: Retail Express Ltd
+   description: Creating analytical application for retail market
+ - title: Senior Developer
+   start: Mar 2006
+   end: Nov 2006
+   employer: ebuyer.com
+   description: Designing integrated stock and billing systems
+ - title: Senior Analyst Developer
+   start: Apr 2003
+   end: Mar 2006
+   employer: RWE Systems UK
+   description: Creating billing platform for utilities market
+ - title: Analyst Developer
+   start: Jun 2002
+   end: Apr 2003
+   employer: Sweet and Maxwell
+   description: Designing editorial applications for legal publishers
+ - title: Developer
+   start: Sep 2001
+   end: Apr 2002
+   employer: Kingston Communications Ltd
+   description: Building Europe's first streaming television service
+ - title: E-Commerce Team Leader
+   start: Jan 2000
+   end: Sep 2001
+   employer: Aviva
+   description: Designing e-commerce protocols and applications for pensions market
+ - title: Software Developer
+   start: Jan 1998
+   end: Dec 1999
+   employer: University of York
+   description: Created university admissions application
  
 #Education is required
 education:
